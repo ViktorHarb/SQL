@@ -1,4 +1,4 @@
--- 1. Вивести всі поля і всі строки.
+-- 1. Select all fields and rows.
 select * from students;
 -- 2. Вивести всіх студентів в таблиці
 select name from students;
